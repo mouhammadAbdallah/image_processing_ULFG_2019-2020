@@ -1,8 +1,8 @@
 # Image Processing ULFG 2019 - 2020
 
-image processing lab
+## image processing lab: transformations - filters - enhancement - compression
 
-files:
+### files:
 
 * README.md
 * tp1
